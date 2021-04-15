@@ -73,5 +73,7 @@ highlight_name: false
 
 I'm a lapsed scientist currently taking a prolonged detour in the startup world as the business guy at [Sora ID](https://soraid.com/), where we're building a new paradigm for online identity. Prior to my current gig, I consulted on software product strategy at [BCG](https://www.bcg.com/), diligenced startups at [Joyance Partners](https://www.joyancepartners.com/), and built brain implants at [Paradromics](https://paradromics.com/), punctuated by various research roles.
 
-This website will focus mostly on my academic interests, which have meandered from nanomaterials chemistry to synthetic biology to my latest kick of theoretical models for emergent phenomena (ex. systems biology, quantum chemistry). I'm also currently banging my head against a wall trying to teach myself quantum field theory and general relativity.
+This website will focus mostly on my academic interests, which have meandered from nanomaterials synthesis to neuromodulation to my latest kick of theoretical biophysics. I'm also currently banging my head against a wall trying to learn quantum field theory and general relativity.
+
+When I'm not thinking about cash flows or commutators, you can find me reading, playing one of the three songs I know on the guitar, or spending way too much time on my $0 buy-in fantasy football league.
 
