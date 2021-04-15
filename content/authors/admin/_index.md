@@ -14,7 +14,7 @@ organizations:
   url: https://www.soraid.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a scientist taking a prolonged detour in the the startup world.
 
 # Interests to show in About widget
 interests:
@@ -71,6 +71,7 @@ highlight_name: false
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a lapsed scientist currently taking a prolonged detour in the startup world as a cofounder at Sora ID, where I'm the business guy on a team building a new paradigm for online identity. Prior to my current gig, I consulted on software product strategy at [BCG][https://www.bcg.com/], diligenced startups at [Joyance Partners][https://www.joyancepartners.com/], and built brain implants at [Paradromics][https://paradromics.com/], punctuated by various research roles.
 
+This website will focus mostly on my academic interests, which have meandered from nanomaterials chemistry to synthetic biology to my latest kick of modeling emergent phenomena (ex. systems biology, quantum chemistry). I'm also currently banging my head against a wall trying to teach myself quantum field theory and general relativity.
 
