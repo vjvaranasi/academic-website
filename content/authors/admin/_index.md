@@ -18,9 +18,9 @@ bio: I'm a scientist taking a prolonged detour in the the startup world.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Systems biology
+- Physics-based models
+- Tech startups
 
 # Education to show in About widget
 education:
@@ -71,7 +71,7 @@ highlight_name: false
 ---
 
 
-I'm a lapsed scientist currently taking a prolonged detour in the startup world as a cofounder at [Sora ID](https://soraid.com/), where I'm the business guy on a team building a new paradigm for online identity. Prior to my current gig, I consulted on software product strategy at [BCG](https://www.bcg.com/), diligenced startups at [Joyance Partners](https://www.joyancepartners.com/), and built brain implants at [Paradromics](https://paradromics.com/), punctuated by various research roles.
+I'm a lapsed scientist currently taking a prolonged detour in the startup world as the business guy at [Sora ID](https://soraid.com/), where we're building a new paradigm for online identity. Prior to my current gig, I consulted on software product strategy at [BCG](https://www.bcg.com/), diligenced startups at [Joyance Partners](https://www.joyancepartners.com/), and built brain implants at [Paradromics](https://paradromics.com/), punctuated by various research roles.
 
 This website will focus mostly on my academic interests, which have meandered from nanomaterials chemistry to synthetic biology to my latest kick of modeling emergent phenomena (ex. systems biology, quantum chemistry). I'm also currently banging my head against a wall trying to teach myself quantum field theory and general relativity.
 
